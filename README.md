@@ -57,7 +57,8 @@ PowerBI is also used to create a comprehensive dashboard showcasing similar KPIs
 
 Dashboard created using Sigma and PowerBI, providing key performance insights such as sales trends, store performance, and customer behavior.
 
-![BI Dashboard ](https://github.com/user-attachments/assets/d5788007-ee97-4e4f-a2ae-a4c19eb54eea)
+![WhatsApp Image 2025-01-05 at 12 34 44 PM](https://github.com/user-attachments/assets/19a6884d-ecaa-40a4-a2a4-cacc3dc63917)
+
 
 
 # Key Insights and Outcomes
