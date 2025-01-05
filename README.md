@@ -55,7 +55,10 @@ Key metrics are displayed in Key Metric Cards (KPIs) such as total sales, custom
 PowerBI is also used to create a comprehensive dashboard showcasing similar KPIs and detailed performance insights.
 # Snapshot of Dashboard
 
-Example of the dashboard created using Sigma and PowerBI, providing key performance insights such as sales trends, store performance, and customer behavior.
+Dashboard created using Sigma and PowerBI, providing key performance insights such as sales trends, store performance, and customer behavior.
+
+![BI Dashboard ](https://github.com/user-attachments/assets/d5788007-ee97-4e4f-a2ae-a4c19eb54eea)
+
 
 # Key Insights and Outcomes
 Sales Performance:                                Total sales trends, segmented by time periods (daily, monthly, quarterly), store type, and region.
